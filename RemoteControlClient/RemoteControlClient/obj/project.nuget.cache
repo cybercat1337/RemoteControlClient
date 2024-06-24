@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wm6x372BCew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlad7\\Documents\\RemoteDesktop\\RemoteControlClient\\RemoteControlClient\\RemoteControlClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlad7\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\vlad7\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\vlad7\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\vlad7\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\vlad7\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
